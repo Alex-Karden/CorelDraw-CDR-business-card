@@ -1,2 +1,2 @@
-# CorelDraw-CDR-business-card
+# CorelDraw-CDR-business-cards
 CorelDraw (CDR). Business cards.
